@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="col1">#D18E51</color>
+    <color name="col2">#515ed1</color>
+    <color name="blue">#3023ae</color>
+    <color name="purple">#c86dd7</color>
+    <color name="background">#F7F2D8</color>
+    <color name="teal_700">#123122</color>
+    <color name="teal_200">#D18E51</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ic_launcher_background">#3023ae</color>
+    <color name="top">#F5F0D8</color>
+    <color name="textcolor">#F4EECA</color>
+
+<!--    <color name="teal_200">#D18E51</color>-->
+</resources>

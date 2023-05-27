@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city">Город</string>
+    <string name="weather">Погода</string>
+    <string name="wind">Ветер</string>
+    <string name="temp">Т°C</string>
+    <string name="no_infa">Поле города не может быть пустым </string>
+    <string name="condis">Неверное название города</string>
+
+</resources>
